@@ -1,2 +1,3 @@
 import streamlit
-streamlit.subtitle('Breakfast')
+streamlit.title('My parents new healthy diner')
+streamlit.subtitle("Breakfast")
